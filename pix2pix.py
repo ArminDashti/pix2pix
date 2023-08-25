@@ -1,3 +1,8 @@
+'''
+https://phillipi.github.io/pix2pix/
+https://github.com/phillipi/pix2pix
+https://arxiv.org/abs/1611.07004
+'''
 import torch
 from torch import nn
 from torch.nn import init
